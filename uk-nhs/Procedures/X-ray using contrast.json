@@ -1,0 +1,4 @@
+{
+  "name": "Xrays using contrast",
+   "ecl" : "<< 168537006 |Plain X-ray (procedure)| : { 260686004 |Method (attribute)| = 312254007 |Plain X-ray imaging - action (qualifier value)|, 424361007 |Using substance (attribute)| = 419098001 |Radiographic imaging contrast media (substance)| }"
+}
